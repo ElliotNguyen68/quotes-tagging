@@ -2,9 +2,9 @@
 ## Install language programing
 > sudo apt install python3
 > apt install python3-pip python-dev
+> pip3 install --user pipenv
 
 ## Install package
-> pip3 install --user pipenv
 > pipenv install
 
 ## VSC
