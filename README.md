@@ -22,3 +22,9 @@ require ipykernal
 aws_access_key_id=.....SCJFZ
 aws_secret_access_key=.....6GAZ2Ks
 ```
+Login AWS
+```
+https://768461982891.signin.aws.amazon.com/console
+username: motify-dev
+password: L.......l
+```
