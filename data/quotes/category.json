@@ -1,0 +1,366 @@
+{
+    "hard times": [
+        {
+            "url": "data/quotes/hard times/heartbroken/0/data.json",
+            "tag": "heartbroken",
+            "icon": "file-excel-outline"
+        },
+        {
+            "url": "data/quotes/hard times/overthinking/0/data.json",
+            "tag": "overthinking",
+            "icon": "firebase"
+        },
+        {
+            "url": "data/quotes/hard times/death/0/data.json",
+            "tag": "death",
+            "icon": "file-search-outline"
+        },
+        {
+            "url": "data/quotes/hard times/haters/0/data.json",
+            "tag": "haters",
+            "icon": "folder-alert"
+        },
+        {
+            "url": "data/quotes/hard times/depression/0/data.json",
+            "tag": "depression",
+            "icon": "emoticon-devil-outline"
+        },
+        {
+            "url": "data/quotes/hard times/loneliness/0/data.json",
+            "tag": "loneliness",
+            "icon": "earbuds-off"
+        },
+        {
+            "url": "data/quotes/hard times/uncertainty/0/data.json",
+            "tag": "uncertainty",
+            "icon": "file-phone"
+        },
+        {
+            "url": "data/quotes/hard times/sadness/0/data.json",
+            "tag": "sadness",
+            "icon": "flask-remove-outline"
+        }
+    ],
+    "personal growth": [
+        {
+            "url": "data/quotes/personal growth/letting go/0/data.json",
+            "tag": "letting go",
+            "icon": "file-word-box"
+        },
+        {
+            "url": "data/quotes/personal growth/self-respect/0/data.json",
+            "tag": "self-respect",
+            "icon": "dog-side"
+        },
+        {
+            "url": "data/quotes/personal growth/self-esteem/0/data.json",
+            "tag": "self-esteem",
+            "icon": "flower-pollen"
+        },
+        {
+            "url": "data/quotes/personal growth/ego/0/data.json",
+            "tag": "ego",
+            "icon": "fan-plus"
+        },
+        {
+            "url": "data/quotes/personal growth/happiness/0/data.json",
+            "tag": "happiness",
+            "icon": "fast-forward-outline"
+        },
+        {
+            "url": "data/quotes/personal growth/growth/0/data.json",
+            "tag": "growth",
+            "icon": "filter-menu"
+        },
+        {
+            "url": "data/quotes/personal growth/self-love/0/data.json",
+            "tag": "self-love",
+            "icon": "flask-empty-off"
+        },
+        {
+            "url": "data/quotes/personal growth/love yourself/0/data.json",
+            "tag": "love yourself",
+            "icon": "file-code-outline"
+        },
+        {
+            "url": "data/quotes/personal growth/gratitude/0/data.json",
+            "tag": "gratitude",
+            "icon": "file-word-box"
+        },
+        {
+            "url": "data/quotes/personal growth/moving on/0/data.json",
+            "tag": "moving on",
+            "icon": "file-remove"
+        }
+    ],
+    "work & productivity": [
+        {
+            "url": "data/quotes/work & productivity/focus/0/data.json",
+            "tag": "focus",
+            "icon": "feature-search"
+        },
+        {
+            "url": "data/quotes/work & productivity/graduation/0/data.json",
+            "tag": "graduation",
+            "icon": "filter-remove-outline"
+        },
+        {
+            "url": "data/quotes/work & productivity/college/0/data.json",
+            "tag": "college",
+            "icon": "face-agent"
+        },
+        {
+            "url": "data/quotes/work & productivity/study/0/data.json",
+            "tag": "study",
+            "icon": "file-cog"
+        },
+        {
+            "url": "data/quotes/work & productivity/success/0/data.json",
+            "tag": "success",
+            "icon": "fit-to-screen-outline"
+        },
+        {
+            "url": "data/quotes/work & productivity/passion/0/data.json",
+            "tag": "passion",
+            "icon": "emoticon-dead-outline"
+        },
+        {
+            "url": "data/quotes/work & productivity/money/0/data.json",
+            "tag": "money",
+            "icon": "file-powerpoint-outline"
+        },
+        {
+            "url": "data/quotes/work & productivity/leadership/0/data.json",
+            "tag": "leadership",
+            "icon": "emoticon-neutral"
+        },
+        {
+            "url": "data/quotes/work & productivity/work/0/data.json",
+            "tag": "work",
+            "icon": "drag-horizontal"
+        },
+        {
+            "url": "data/quotes/work & productivity/self-discipline/0/data.json",
+            "tag": "self-discipline",
+            "icon": "expand-all-outline"
+        },
+        {
+            "url": "data/quotes/work & productivity/routine/0/data.json",
+            "tag": "routine",
+            "icon": "fit-to-page-outline"
+        },
+        {
+            "url": "data/quotes/work & productivity/entrepreneurs/0/data.json",
+            "tag": "entrepreneurs",
+            "icon": "engine-off-outline"
+        },
+        {
+            "url": "data/quotes/work & productivity/productivity/0/data.json",
+            "tag": "productivity",
+            "icon": "file-refresh"
+        },
+        {
+            "url": "data/quotes/work & productivity/perseverance/0/data.json",
+            "tag": "perseverance",
+            "icon": "email-plus"
+        }
+    ],
+    "inspiration": [
+        {
+            "url": "data/quotes/inspiration/proverbs/0/data.json",
+            "tag": "proverbs",
+            "icon": "email-search-outline"
+        },
+        {
+            "url": "data/quotes/inspiration/funny/0/data.json",
+            "tag": "funny",
+            "icon": "fishbowl-outline"
+        },
+        {
+            "url": "data/quotes/inspiration/future/0/data.json",
+            "tag": "future",
+            "icon": "flag-remove-outline"
+        },
+        {
+            "url": "data/quotes/inspiration/beauty/0/data.json",
+            "tag": "beauty",
+            "icon": "file-table-outline"
+        },
+        {
+            "url": "data/quotes/inspiration/sayings/0/data.json",
+            "tag": "sayings",
+            "icon": "fan-chevron-down"
+        },
+        {
+            "url": "data/quotes/inspiration/art/0/data.json",
+            "tag": "art",
+            "icon": "facebook-gaming"
+        }
+    ],
+    "relationships": [
+        {
+            "url": "data/quotes/relationships/cheating/0/data.json",
+            "tag": "cheating",
+            "icon": "file-search"
+        },
+        {
+            "url": "data/quotes/relationships/marriage/0/data.json",
+            "tag": "marriage",
+            "icon": "file-search"
+        },
+        {
+            "url": "data/quotes/relationships/friendship/0/data.json",
+            "tag": "friendship",
+            "icon": "flask-plus-outline"
+        },
+        {
+            "url": "data/quotes/relationships/parenthood/0/data.json",
+            "tag": "parenthood",
+            "icon": "eraser-variant"
+        },
+        {
+            "url": "data/quotes/relationships/loyalty/0/data.json",
+            "tag": "loyalty",
+            "icon": "flag-plus-outline"
+        },
+        {
+            "url": "data/quotes/relationships/distance/0/data.json",
+            "tag": "distance",
+            "icon": "file-cog"
+        },
+        {
+            "url": "data/quotes/relationships/falling in love/0/data.json",
+            "tag": "falling in love",
+            "icon": "flask-off"
+        },
+        {
+            "url": "data/quotes/relationships/love/0/data.json",
+            "tag": "love",
+            "icon": "floor-lamp-torchiere-variant-outline"
+        },
+        {
+            "url": "data/quotes/relationships/honestly/0/data.json",
+            "tag": "honestly",
+            "icon": "filter-minus"
+        },
+        {
+            "url": "data/quotes/relationships/relationships/0/data.json",
+            "tag": "relationships",
+            "icon": "file-cloud"
+        },
+        {
+            "url": "data/quotes/relationships/family/0/data.json",
+            "tag": "family",
+            "icon": "face-woman-profile"
+        },
+        {
+            "url": "data/quotes/relationships/forgiveness/0/data.json",
+            "tag": "forgiveness",
+            "icon": "emoticon-devil-outline"
+        },
+        {
+            "url": "data/quotes/relationships/trust/0/data.json",
+            "tag": "trust",
+            "icon": "email-sync"
+        },
+        {
+            "url": "data/quotes/relationships/introvert/0/data.json",
+            "tag": "introvert",
+            "icon": "download-circle"
+        }
+    ],
+    "spiritual & philosophy": [
+        {
+            "url": "data/quotes/spiritual & philosophy/taoism/0/data.json",
+            "tag": "taoism",
+            "icon": "filter-plus-outline"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/zen/0/data.json",
+            "tag": "zen",
+            "icon": "flask-empty-remove-outline"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/devotions/0/data.json",
+            "tag": "devotions",
+            "icon": "email-variant"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/life/0/data.json",
+            "tag": "life",
+            "icon": "floppy-variant"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/karma/0/data.json",
+            "tag": "karma",
+            "icon": "engine-off"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/mindfulness/0/data.json",
+            "tag": "mindfulness",
+            "icon": "fan-off"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/wisdom/0/data.json",
+            "tag": "wisdom",
+            "icon": "file-find"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/god/0/data.json",
+            "tag": "god",
+            "icon": "file-cloud"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/faith/0/data.json",
+            "tag": "faith",
+            "icon": "file-png-box"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/hope/0/data.json",
+            "tag": "hope",
+            "icon": "dots-square"
+        },
+        {
+            "url": "data/quotes/spiritual & philosophy/philosophy/0/data.json",
+            "tag": "philosophy",
+            "icon": "download-box"
+        }
+    ],
+    "health & fitness": [
+        {
+            "url": "data/quotes/health & fitness/sport/0/data.json",
+            "tag": "sport",
+            "icon": "earth-box"
+        },
+        {
+            "url": "data/quotes/health & fitness/strength/0/data.json",
+            "tag": "strength",
+            "icon": "ferry"
+        },
+        {
+            "url": "data/quotes/health & fitness/health/0/data.json",
+            "tag": "health",
+            "icon": "face-agent"
+        },
+        {
+            "url": "data/quotes/health & fitness/gym/0/data.json",
+            "tag": "gym",
+            "icon": "flask-minus-outline"
+        },
+        {
+            "url": "data/quotes/health & fitness/fitness/0/data.json",
+            "tag": "fitness",
+            "icon": "dump-truck"
+        },
+        {
+            "url": "data/quotes/health & fitness/training/0/data.json",
+            "tag": "training",
+            "icon": "expansion-card-variant"
+        },
+        {
+            "url": "data/quotes/health & fitness/running/0/data.json",
+            "tag": "running",
+            "icon": "file-image-outline"
+        }
+    ]
+}

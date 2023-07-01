@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 *.csv
 outputs
+
+.tar 
+.gz
+
+data
+*.json
